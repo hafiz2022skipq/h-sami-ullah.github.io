@@ -56,6 +56,7 @@ model.add(Dense(units = 1))
 # RMSprop is a recommended optimizer as per keras documentation
 # check out https://keras.io/optimizers/ for more details
 model.compile(optimizer = 'adamax', loss = 'mean_squared_error')
+model.fit(X_train, y_train, epochs = 10, batch_size = 150)
 ```
 
 ### 5. Pipeline
