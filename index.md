@@ -1,11 +1,11 @@
-## Portfolio
+## Samiullah 
 
 ---
 
-### Category Name 1 
+### Machine Learning 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Time Series Forcasting](/sample_page)
+<img src="images/project1.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
