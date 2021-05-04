@@ -7,7 +7,7 @@
 ### 2. Moving Average
 This statistical approach gives the general direction of trends and patterns by exploring historical data. For a window size of K, moving average is calculated by adding most recent data points and divide them by K and iterated until it converges. The MA is commonly used to smoothen the prices by eliminating white noise from the given data set.
 
-### 3. Autoregression (AR) model 
+### 3. Autoregression (AR) Model 
 
 An AR is an autoregressive process where it uses previous p values to predict future values. These models are built upon the assumption that, past values don’t change with respect to time. Most of the times it can lead to wrong predictions if the input data is strictly temporal. Yet these models are still used for predicting non-temporal data. For instance, before 20008 financial crises, most shareholders used AR models to forecast US stock prices before investing. Surprisingly, most of them were successful to capture the trends and made profits using this model. 
 
@@ -18,11 +18,25 @@ model_fit = model.fit()
 window = model_fit.k_ar
 coef = model_fit.params
 ```
+### 4. ARIMA Model:
+Auto regressive integrated moving average method, often referred as ARIMA model. A non-seasonal data without white noise can be modeled using this model. This model is distinguished by 3 variables i.e., p, d, q. Where p represents the order of autoregressive term, q is the indicator about the order of moving average term and d is the quantity used when time series is required to be converted into stationary form.
 
+```javascript
+from statsmodels.tsa.arima_model import ARIMA
+history = [x for x in train_arima]
+y = test_arima
+# make first prediction
+predictions = list()
+model = ARIMA(history, order=(1,1,0))
+model_fit = model.fit(disp=0)
+yhat = model_fit.forecast()[0]
+predictions.append(yhat)
+history.append(y[0])
+```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 5. Pipeline
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pipeline.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
