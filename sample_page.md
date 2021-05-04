@@ -35,11 +35,10 @@ history.append(y[0])
 ```
 
 ### 5. Pipeline
+Implementing this project can be understood using the below flow chart. 
 
 <img src="images/pipeline.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
