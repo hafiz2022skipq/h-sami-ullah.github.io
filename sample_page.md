@@ -59,7 +59,7 @@ model.compile(optimizer = 'adamax', loss = 'mean_squared_error')
 model.fit(X_train, y_train, epochs = 10, batch_size = 150)
 ```
 
-### 5. Pipeline
+### 6. Pipeline
 Implementing this project can be understood using the below flow chart. 
 
 <img src="images/pipeline.png?raw=true"/>
