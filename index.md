@@ -7,6 +7,16 @@
 [Time Series Forcasting](/sample_page)
 <img src="images/project1.PNG?raw=true"/>
 
+
+---
+[Semantic Segmentation](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/tree/main/Semantic%20Segmentation)
+<img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/45760f7ea2f399a8426f2116dee92742627ee004/Semantic%20Segmentation/bais1-3073715-large.gif?raw=true"/>
+
+---
+
+
+
+
 ---
 [Face Detection](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/e4e70b4e05bb0d252d7efa90f9f89b0e6d7407c1/Face%20Recognition/html/face.md)
 <img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/main/Face%20Recognition/html/r14.png?raw=true"/>
