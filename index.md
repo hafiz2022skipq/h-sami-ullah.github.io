@@ -13,12 +13,18 @@
 <img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/45760f7ea2f399a8426f2116dee92742627ee004/Semantic%20Segmentation/bais4-3073715-large.gif?raw=true"/>
 
 ---
+
+---
+[Video Anomaly Detection](https://github.com/h-sami-ullah/Anomaly-Detection-in-Video-using-MATLAB)
+<img src="https://github.com/h-sami-ullah/Anomaly-Detection-in-Video-using-MATLAB/blob/34ee8b0b5afa86836e35cd7a196386bd0adb6520/rehma6-3059519-large.gif?raw=true"/>
+
+---
+
 ---
 [Audio Event Detection](https://github.com/h-sami-ullah/Audio-event-analysis-and-feature-extraction-using-MATLAB)
 <img src="https://github.com/h-sami-ullah/Audio-event-analysis-and-feature-extraction-using-MATLAB/blob/48b09468092d4f6d1295780150954ca093106d3a/rehma3-3059519-large.gif?raw=true"/>
 
 ---
-
 
 
 ---
