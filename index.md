@@ -2,7 +2,7 @@
 
 ---
 
-### Machine Learning 
+### Machine Learning | Deep Learning | Computer Vision
 
 [Time Series Forcasting](/sample_page)
 <img src="images/project1.PNG?raw=true"/>
@@ -50,13 +50,10 @@
 ---
 
 
-### Category Name 2
+### Publications
+- [H. S. Ullah, M. H. Asad and A. Bais, "End to End Segmentation of Canola Field Images Using Dilated U-Net," in IEEE Access, vol. 9, pp. 59741-59753, 2021, doi: 10.1109/ACCESS.2021.3073715.](https://ieeexplore.ieee.org/document/9405989)
+- [A. -U. Rehman, H. S. Ullah, H. Farooq, M. S. Khan, T. Mahmood and H. O. A. Khan, "Multi-Modal Anomaly Detection by Using Audio and Visual Cues," in IEEE Access, vol. 9, pp. 30587-30603, 2021, doi: 10.1109/ACCESS.2021.3059519.](https://ieeexplore.ieee.org/document/9354611)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
