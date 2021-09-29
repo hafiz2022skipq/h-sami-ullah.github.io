@@ -8,8 +8,14 @@
 <img src="images/project1.PNG?raw=true"/>
 
 ---
+[Face Detection](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/e4e70b4e05bb0d252d7efa90f9f89b0e6d7407c1/Face%20Recognition/html/face.md)
+<img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/main/Face%20Recognition/html/r14.png?raw=true"/>
+
+---
+
+
 [Image Filtering and Hybrid Image](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/main/Image%20Filtering%20and%20Hybrid%20Image/html/index.md)
-<img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/492b21c49f8ed0b8dc908dbcc397fd44d38f4777/Image%20Filtering%20and%20Hybrid%20Image/html/Part2_Hybrid/Bicycle_Motorcycle/motorcycle_bicycle_hybrid_image_scales.jpg?raw=true"/>
+<img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/64a81a5e75aac8a73bd9b459a1a8a3b8f6d26a50/Image%20Filtering%20and%20Hybrid%20Image/html/Part2_Hybrid/Bicycle_Motorcycle/motorcycle_bicycle_hybrid_image_scales.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
