@@ -22,7 +22,7 @@
 
 ---
 [Audio Event Detection](https://github.com/h-sami-ullah/Audio-event-analysis-and-feature-extraction-using-MATLAB)
-<img src="https://github.com/h-sami-ullah/Audio-event-analysis-and-feature-extraction-using-MATLAB/blob/48b09468092d4f6d1295780150954ca093106d3a/rehma3-3059519-large.gif?raw=true"/>
+<img src="https://github.com/h-sami-ullah/Audio-event-analysis-and-feature-extraction-using-MATLAB/blob/a8ca8a7c556c5a7c2c9c794e06b58ad8e398fe35/rehma3-3059519-large.jpg?raw=true"/>
 
 ---
 
