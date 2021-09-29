@@ -44,7 +44,7 @@
 ---
 
 ---
-[Feature Matching](https://github.com/h-sami-ullah/Machine-and-Deep-Learning-Basics/blob/main/Simple%20Regression/Simple%20Linear%20Regression.ipynb)
+[Linear Regression](https://github.com/h-sami-ullah/Machine-and-Deep-Learning-Basics/blob/main/Simple%20Regression/Simple%20Linear%20Regression.ipynb)
 <img src="https://github.com/h-sami-ullah/Machine-and-Deep-Learning-Basics/blob/30e117c9704e0e337bbaf6fcbb2be6d969f95ef6/Simple%20Regression/download.png?raw=true"/>
 
 ---
