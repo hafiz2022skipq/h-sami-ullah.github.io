@@ -8,7 +8,7 @@
 <img src="images/project1.PNG?raw=true"/>
 
 ---
-[Project 2 Title](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/1d205eadba138ebde1c04b49c92bfd56a60ad191/Camera%20Calibration%20and%20Fundamental%20Matrix%20Estimation/html/index.html)
+[Project 2 Title](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/main/Image%20Filtering%20and%20Hybrid%20Image/html/index.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
