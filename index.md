@@ -10,7 +10,7 @@
 
 ---
 [Semantic Segmentation](https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/tree/main/Semantic%20Segmentation)
-<img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/45760f7ea2f399a8426f2116dee92742627ee004/Semantic%20Segmentation/bais1-3073715-large.gif?raw=true"/>
+<img src="https://github.com/h-sami-ullah/Deep-Learning-in-Computer-Vision/blob/45760f7ea2f399a8426f2116dee92742627ee004/Semantic%20Segmentation/bais4-3073715-large.gif?raw=true"/>
 
 ---
 
