@@ -54,6 +54,7 @@
 
 
 ### Publications
+- [Hafiz Sami Ullah, Abdul Bais, Evaluation of model generalization for growing plants using conditional learning, Artificial Intelligence in Agriculture, 2022, ISSN 2589-7217](https://doi.org/10.1016/j.aiia.2022.09.006)
 - [H. S. Ullah, M. H. Asad and A. Bais, "End to End Segmentation of Canola Field Images Using Dilated U-Net," in IEEE Access, vol. 9, pp. 59741-59753, 2021, doi: 10.1109/ACCESS.2021.3073715.](https://ieeexplore.ieee.org/document/9405989)
 - [A. -U. Rehman, H. S. Ullah, H. Farooq, M. S. Khan, T. Mahmood and H. O. A. Khan, "Multi-Modal Anomaly Detection by Using Audio and Visual Cues," in IEEE Access, vol. 9, pp. 30587-30603, 2021, doi: 10.1109/ACCESS.2021.3059519.](https://ieeexplore.ieee.org/document/9354611)
 
